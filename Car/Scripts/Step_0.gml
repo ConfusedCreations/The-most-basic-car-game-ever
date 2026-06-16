@@ -1,3 +1,5 @@
+// Go to the car and add a step script. Add the following code.
+
 move_wrap(100, 100, 20)
 
 if keyboard_check(ord("W"))
